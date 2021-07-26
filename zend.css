@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.refresh	{clear:both}
+.first		{background-color:#f2f2f3; min-height:100px}
+.first_1		{background-color:#f2f2f3; min-height:50px; width:40%; float:left; text-align:center; margin: 20px}
+.first_2		{background-color:#f2f2f3; min-height:30px; width:25%; float:left; text-align:center; margin:30px}
+.first_2 a		{ color:#5fa6c3; margin-left:20px; font-size:16px}
+.first_3 	{background-color:#f2f2f3; min-height:30px; width:10%; float:left; text-align:center; margin:30px}
+
+.second		{background-color:#02263f; min-height:40px; color:#FFF; text-align:center; padding-top:15px}
+.second b	{margin-left:20px; font-size:16px}
+.second button {background-color:#F93; padding:5px; border-radius:5px; cursor:pointer}
+.line			{ background-color:#288dc0; min-height:5px}
+
+.third		{background-color: #FFF; min-height:200px; text-align:center}
+
+.fourth		{background-color: #FFF; min-height:270px; width:100%; color:#28719b}
+.fourth_1	{ background-color: #FFF; min-height:100px; float:left; width:100%; text-align:center}
+.fourth_1 h1	{color:#28719b; }
+.fourth_1 p	{color:#656565; }
+.fourth_2	{ background-color: #FFF; min-height:150px; float:left; width:100%; text-align:center}
+.fourth_3	{ background-color: #FFF; float:left; width:100%; text-align:center; padding:10px}
+.fourth_3 button{color:#FFF; background-color:#F93; padding:8px; border-radius:5px; cursor:pointer}
+
+.fifth		{background-color:#032c48; text-align:center; color:#FFF; padding:5px}
+
+.sixth		{background-color: #FFF; min-height:300px}
+.sixth_1	{background-color:#FFF; width:25%; float: left; margin:25px; text-align:center; margin-left:60px}
+.sixth_1 h2	{ color:#032c48}
+.sixth_1 p	{ color:#656565}
+
+.seventh	{background-color: #69C; min-height:600px}
+.seventh_1	{background-color:#69C; color:#FFF; min-height:220px; text-align:center; float:left; width:100%}
+.seventh_1	h1	{color:#FFF; font-size:40px}
+.seventh_2	{background-color:#69C; color:#FFF; min-height:50px; text-align:center; float:left; width:100%;}
+.seventh_2 button{color:#FFF; background-color:#F93; padding:10px; border-radius:5px; cursor:pointer; width:10%}
+.seventh_3	{background-color: #69C; color:#FFF; min-height:250px; text-align:center; float:left; width:100%; margin-bottom:20px}
+
+.eight		{background-color:#f0f0f0;}
+.eight_1	{background-color:#f0f0f0; min-height: 60px; text-align:center; padding-top:5px}
+.eight_2	{ background-color:#f0f0f0; min-height:300px; padding-top:10px}
+.eight_2In	{background:#f0f0f0; text-align:center; min-height:100px; float:left; width:30%; margin:20px}
+
+.nineth		{background-color: #FFF; min-height:300px}
+.nineth_1	{ text-align:center; min-height:100px}
+.nineth_1 h1	{color:#28719b; font-size:46px}
+.nineth_1 h3	{color:#48a9c5}
+.nineth_1 p		{color:#656565}
+.nineth_2	{ text-align:center}
+.nineth_2 img	{ margin-left:10px}
+
+.tenth		{min-height:250px; background-color:#f0f0f0; }
+.tenth_1	{ text-align:center;  border-top: solid #F90 1px; border-bottom: solid #F90 1px}
+.tenth_1 h1	{ color:#28719b; font-size:46px; padding-top:20px;}
+.tenth_1 p	{color:#656565; padding:10px}
+.tenth_1 h4	{ color:#666; padding-top:20px}
+
+.eleventh	{min-height:500px; background-color:#FFF }
+.eleventh_1	{ min-height:200px; text-align:center}
+.eleventh_1 h1 	{ color:#28719b; font-size:46px; padding-top:20px;}
+.eleventh_1 h2	{color:#48a9c5; padding:10px; font-size:28px;}
+.eleventh_2	{ text-align:center;}
+.eleventh_2a	{ float:left; width:25%; margin-left:80px;}
+.eleventh_2a h2	{color:#28719b}
+.eleventh_2a p	{color:#777}
